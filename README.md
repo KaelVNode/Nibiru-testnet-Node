@@ -1,4 +1,4 @@
-# Nibiru testnet 
+# Nibiru Node testnet 
 
 ## References
 
