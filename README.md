@@ -50,7 +50,8 @@ wget -O nibi https://raw.githubusercontent.com/elangrr/testnet_guide/main/nibiru
 source $HOME/.bash_profile
 ```
 
-##  Lalu proses ke Create Wallet
+Lalu proses ke Create Wallet
+
 
 ##  Manual Install Node Guide
 
