@@ -36,6 +36,24 @@ You can find each Nibiru testnet below
 |Storage|1TB of storage (SSD or NVME)|
 |Internet|Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)|
 
+
+##Auto Install
+
+```
+wget -O nibi https://raw.githubusercontent.com/elangrr/testnet_guide/main/nibiru/nibi && chmod +x nibi && ./nibi
+```
+
+
+##Setelah selesai
+
+```
+source $HOME/.bash_profile
+```
+
+##Lalu proses ke Create Wallet
+
+##Manual Install Node Guide
+
 ## Setup Nibiru node
 
 There are 2 options to setup Nibiru node (Automatic and manual installation) but i recommend you to use automatic installation because manual installation is not necessary. Automatic installation also prevent you from wrong doing
